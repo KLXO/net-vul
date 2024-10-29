@@ -1,5 +1,5 @@
 -- NET-VUL --
-netvul is a method by KLXO to grab peoples cookies, email, web history, extensions, and main browser information.
+netvul is using net-export to grab peoples cookies, email, web history, extensions, and main browser information.
 -- HOW CAN I DO THIS? --
 1. When on someone's chromebook, go to chrome://net-export
 2. When on net-export, on the bottom, click "Include cookies and credentials"
