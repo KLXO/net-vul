@@ -1,0 +1,11 @@
+-- NET-VUL --
+netvul is a method by KLXO to grab peoples cookies, email, web history, extensions, and main browser information.
+-- HOW CAN I DO THIS? --
+1. When on someone's chromebook, go to chrome://net-export
+2. When on net-export, on the bottom, click "Include cookies and credentials"
+3. Now click "Start Logging to Disk"
+4. Leave it on for about 10 seconds and then click "Stop Logging"
+Now once you have your .json file, go to the victim's google drive,
+upload the file and make it viewable to people that have the link.
+Now e-mail yourself the link and when you click on it, you can open the json through google drive and
+it wil show the contents. the contents contain what is listed below -- NET-VUL --
